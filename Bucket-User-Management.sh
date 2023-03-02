@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 printf 'Do you want to:\n[1] Create a Bucket\n[2] Delete a Bucket\n'
 read input
 
